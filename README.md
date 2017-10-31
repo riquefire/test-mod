@@ -1,2 +1,2 @@
-# test-mod
-a testing mod for minetest
+# test-texture pack
+a testing texture for minetest
